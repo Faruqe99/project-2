@@ -1,0 +1,19 @@
+element.style {
+}
+.navitation {
+    display: flex;
+    align-items: center;
+}
+.container {
+    width: 1140px;
+    margin: auto;
+}
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+user agent stylesheet
+div {
+    display: block;
+}
